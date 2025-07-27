@@ -1,2 +1,2 @@
 # learn-html
-class one lecture
+class one lecture is live now.
